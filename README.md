@@ -134,7 +134,7 @@ Google Gemini を利用した高度なテキスト生成能力と、Brave Search
 
 ##### 検索デモ
 <!-- ./images/baboo_demo.mp4 -->
-<video src="https://github.com/user-attachments/assets/a5a17130-b022-4a0c-9cde-5eb9aae681c0" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/4117b3bd-8628-4857-93fa-62c17fab7810" controls="true"></video>
 
 ---
 
@@ -175,8 +175,15 @@ Google Gemini を利用した高度なテキスト生成能力と、Brave Search
 #### 🧑‍🎨 会話履歴
 <img src="./images/baboo_conversation_history.png" width="360px" />
 
-#### ダッシュボードページ
-<img src="./images/baboo_dashboard.png" width="360px" />
+### 履歴画面
+#### 🧑 ログイン認証
+<img src="./images/baboo_history_auth.png" width="360px" />
+
+#### 🧑‍🎨 会話履歴一覧表示
+<img src="./images/baboo_history_list.png" width="360px" />
+
+#### 🚋 過去の会話への移動
+<img src="./images/baboo_move_to_old_conversation.webp" width="360px" />
 
 ---
 
