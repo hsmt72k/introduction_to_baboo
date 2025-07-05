@@ -188,7 +188,7 @@ Google Gemini を利用した高度なテキスト生成能力と、Brave Search
 <img src="./images/baboo_history_list.png" width="360px" />
 
 #### 🚋 過去の会話への移動
-<img src="./images/baboo_move_to_old_conversation.webp" width="360px"style="border: 1px solid #777;" />
+<img src="./images/baboo_move_to_old_conversation.webp" width="360px" style="border: 1px solid #777;" />
 
 ---
 
