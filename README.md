@@ -162,7 +162,9 @@ Google Gemini を利用した高度なテキスト生成能力と、Brave Search
 
 #### 🚪 サイドバーの開閉
 <img src="./images/baboo_accordion_sidebar.webp" width="360px" style="border: 1px solid #777;" />
-<!-- #### 🔍 質問入力🚶
+
+<!--
+#### 🔍 質問入力🚶
 <img src="./images/baboo_question_input.webp" width="360px" />
 
 #### 🌐 検索結果表示
@@ -175,7 +177,8 @@ Google Gemini を利用した高度なテキスト生成能力と、Brave Search
 <img src="./images/baboo_reference_info.png" width="360px" />
 
 #### 🧑‍🎨 会話履歴
-<img src="./images/baboo_conversation_history.png" width="360px" /> -->
+<img src="./images/baboo_conversation_history.png" width="360px" />
+-->
 
 ### 履歴画面
 #### 🧑 ログイン認証
