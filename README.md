@@ -163,22 +163,25 @@ Google Gemini を利用した高度なテキスト生成能力と、Brave Search
 #### 🚪 サイドバーの開閉
 <img src="./images/baboo_accordion_sidebar.webp" width="360px" style="border: 1px solid #777;" />
 
-<!--
-#### 🔍 質問入力🚶
-<img src="./images/baboo_question_input.webp" width="360px" />
+#### 🚪 質問入力から回答まで
+<img src="./images/baboo_from_enter_question_to_answer_with_ai.webp" width="360px" style="border: 1px solid #777;" />
 
-#### 🌐 検索結果表示
-<img src="./images/baboo_search_results.png" width="360px" />
+#### 🌐 Web 検索結果の読み込み中...
+<img src="./images/baboo_loading_web_search_results.webp" width="360px" style="border: 1px solid #777;" />
 
-#### 🪶 AI 回答生成
-<img src="./images/baboo_ai_response.png" width="360px" />
+#### 🔄 AI による回答の読み込み中...
+<img src="./images/baboo_loading_ai_answer_results.webp" width="360px" style="border: 1px solid #777;" />
 
-#### 🎨 参考情報表示
-<img src="./images/baboo_reference_info.png" width="360px" />
+### タブ選択
+#### 🎨 「画像」タブ
+<img src="./images/baboo_image_tab.png" width="360px" style="border: 1px solid #777;" />
 
-#### 🧑‍🎨 会話履歴
-<img src="./images/baboo_conversation_history.png" width="360px" />
--->
+#### 📋 「出典」タブ
+<img src="./images/baboo_source_tab.png" width="360px" style="border: 1px solid #777;" />
+
+### ニュース探索
+#### 🪶 トピック選択
+<img src="./images/baboo_discover_news.webp" width="360px" style="border: 1px solid #777;" />
 
 ### 履歴画面
 #### 🧑 ログイン認証
